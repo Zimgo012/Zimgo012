@@ -6,3 +6,4 @@ I aspire to become a full-stack developer. Currently, I am in my second semester
 
 Outside of my academic pursuits, I engage in music production and enjoy playing video games.
 
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
