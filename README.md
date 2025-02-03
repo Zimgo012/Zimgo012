@@ -10,4 +10,4 @@ Outside of my academic pursuits, I engage in music production and enjoy playing 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zimgo012&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zimgo012&theme=tokyonight" alt="mystreak"/>
